@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on Full Stack Web Developer.
-- 🌱 I’m currently learning MERN
+- 🌱 I’m currently working with MEAN/MERN.
 - 👯 I’m looking to collaborate on Yotube,Devlopers.
 - 🤔 I’m looking for help with 
 - 💬 Ask me about Frontend & Backend.
